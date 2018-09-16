@@ -1,0 +1,11 @@
+# Folders
+.ipynb_checkpoints/
+__pycache__/
+
+# Files
+data/github_issues.csv
+weights/*.h5
+weights/*.pkl
+weights/*.hdf5
+weights/*.npy
+weights/*.log
