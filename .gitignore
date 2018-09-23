@@ -3,6 +3,7 @@
 __pycache__/
 
 # Files
+.DS_Store
 data/github_issues.csv
 weights/*.h5
 weights/*.pkl
